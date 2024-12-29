@@ -1,0 +1,9 @@
+
+--------for graph----------
+matploitlib
+* check docs for documentation
+
+
+===========categorize and search for dat within our CSV file=========
+pandas  
+
